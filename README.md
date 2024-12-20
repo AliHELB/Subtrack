@@ -21,7 +21,7 @@ SubTrack is an intuitive mobile application for tracking your monthly subscripti
 1. Clone the repository:
    ```bash
    git clone https://github.com/AliHELB/Subtrack.git
-   cd your-repo
+   cd Subtrack
    ```
 
 2. Install dependencies:
